@@ -30,6 +30,29 @@ La aplicación cuenta con las siguientes opciones en su menú:
 
 ![Ejemplo de uso](https://github.com/luis-tenorio-code/C-CLI-Task-Manager/blob/main/Screenshot.png?raw=true)
 
+¡Entendido! Aquí tienes una sección en el README específica para los comandos del Makefile:
+
+## Comandos del Makefile
+
+El proyecto está configurado con un Makefile para facilitar la compilación y ejecución de la aplicación CLI de tareas. A continuación, se presentan los comandos disponibles:
+
+1. **Compilar el proyecto:** Para compilar el código fuente y generar el ejecutable de la aplicación, ejecuta el siguiente comando:
+
+   ```
+   make
+   ```
+
+2. **Ejecutar la aplicación:** Una vez compilada, puedes ejecutar la aplicación CLI de tareas mediante el siguiente comando:
+
+   ```
+   make run
+   ```
+
+3. **Limpiar archivos compilados:** Si deseas limpiar los archivos objeto y el ejecutable generado, puedes utilizar el siguiente comando:
+   ```
+   make clean
+   ```
+
 ## Contribuir
 
 Si deseas contribuir a este proyecto, puedes hacerlo abriendo un issue o enviando un pull request. Agradecemos tu ayuda para mejorar la aplicación.
