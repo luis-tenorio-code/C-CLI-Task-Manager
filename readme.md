@@ -28,50 +28,7 @@ La aplicación cuenta con las siguientes opciones en su menú:
 
 ## Ejemplo de uso
 
-```md
-Menu de tareas
-1. Agregar tarea
-2. Mostrar tareas
-3. Actualizar tarea
-4. Obtener Tarea
-5. Eliminar tarea
-6. Limpiar pantalla
-7. Salir
-Ingrese su eleccion: 1
-
-Ingrese el titulo de la tarea: Task 1
-Ingrese la descripcion de la tarea: Hi!, this is my first task.
-Tarea creada correctamente.
-
-Menu de tareas
-1. Agregar tarea
-2. Mostrar tareas
-3. Actualizar tarea
-4. Obtener Tarea
-5. Eliminar tarea
-6. Limpiar pantalla
-7. Salir
-Ingrese su eleccion: 2
-
-Lista de tareas:
----------------------------
-Tarea 1:
-Titulo: Task 1
-Descripcion: Hi!, this is my first task.
-Creada en: 2023-08-04 07:34:23
-Ultima actualizacion: 2023-08-04 07:34:23
----------------------------
-
-Menu de tareas
-1. Agregar tarea
-2. Mostrar tareas
-3. Actualizar tarea
-4. Obtener Tarea
-5. Eliminar tarea
-6. Limpiar pantalla
-7. Salir
-Ingrese su eleccion:
-```
+![Ejemplo de uso](https://github.com/luis-tenorio-code/C-CLI-Task-Manager/blob/main/Screenshot.png?raw=true)
 
 ## Contribuir
 
