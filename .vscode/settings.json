@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.excalidraw": "json",
+    "*.excalidrawlib": "json",
+    "func-crud.h": "c"
+  }
+}
