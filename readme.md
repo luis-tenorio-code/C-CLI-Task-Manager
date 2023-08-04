@@ -38,19 +38,26 @@ El proyecto está configurado con un Makefile para facilitar la compilación y e
 
 1. **Compilar el proyecto:** Para compilar el código fuente y generar el ejecutable de la aplicación, ejecuta el siguiente comando:
 
-   ```
+   ```bash
    make
    ```
 
 2. **Ejecutar la aplicación:** Una vez compilada, puedes ejecutar la aplicación CLI de tareas mediante el siguiente comando:
 
-   ```
+   ```bash
    make run
    ```
 
 3. **Limpiar archivos compilados:** Si deseas limpiar los archivos objeto y el ejecutable generado, puedes utilizar el siguiente comando:
-   ```
+
+   ```bash
    make clean
+   ```
+
+4. **Compilar y ejecutar:** Si deseas compilar la aplicación CLI de tareas en un solo paso, puedes utilizar el siguiente comando:
+
+   ```bash
+   make build
    ```
 
 ## Contribuir
